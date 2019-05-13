@@ -1,0 +1,52 @@
+.acesso-wrapper {
+    width: 100%;
+    
+    height: 250px;
+    vertical-align: top;
+    
+    background: #1D638F;
+    text-align: left;
+    border-radius: 5px;
+    margin-bottom: 30px;
+  }
+  
+  .acesso-header {
+
+    width: 100%;
+    margin: 10px auto;
+  
+    height: 50px;
+    vertical-align: top;
+    background: #42a1db;
+    text-align: left;
+    border-radius: 5px;
+    
+  }
+  
+
+  
+  .acesso:first-child {
+    margin-top: 0;
+    padding-top: 10px;
+    border: 0;
+  }
+
+
+
+  .acesso {
+    padding: 10px 20px 10px;
+    margin: 20px 0 0;
+    background: #1D638F;
+    margin-left: -40px;
+    color: #ffffff;
+    border-radius: 5px;
+    
+    
+
+  }
+
+.acesso-itemAcesso{
+    border-top: 1px solid #42a1db;
+    
+}
+  
